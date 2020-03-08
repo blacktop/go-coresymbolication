@@ -1,4 +1,4 @@
-# go-coresymbolication
+# 🚧 go-coresymbolication 🚧
 
 [![GoDoc](https://godoc.org/github.com/blacktop/go-coresymbolication?status.svg)](https://godoc.org/github.com/blacktop/go-coresymbolication) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
